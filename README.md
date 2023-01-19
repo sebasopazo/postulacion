@@ -1,7 +1,7 @@
 # Instalacion
 proyecto postulacion para Landscape
 
--> clonar repo con https
+-> clonar repo con https de la branch "master"
 
 1) Una vez inicializado y clonado en la carpeta donde este el proyecto se creara la imagen y container docker para correrlo
     -crear imagen: docker build . -t nombre/imagen
