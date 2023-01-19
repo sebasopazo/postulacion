@@ -1,7 +1,9 @@
 # Instalacion
 proyecto postulacion para Landscape
 
-1) Una vez copiado e inicializado en la carpeta donde este el proyecto se creara la imagen y container docker para correrlo
+-> clonar repo con https
+
+1) Una vez inicializado y clonado en la carpeta donde este el proyecto se creara la imagen y container docker para correrlo
     -crear imagen: docker build . -t nombre/imagen
     -crear container basado en la imagen: docker run -it -p 9000:9000 --name nombreContainer nombre/imagen
     
